@@ -1,1 +1,1 @@
-case-study.pptx
+case-study.pdf
